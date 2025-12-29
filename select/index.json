@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "800",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-29T07:46:13.479854Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Times Interlude (feat. Syke 800, Duce, Marley Blu & Burnt Out)",
+      "artist": "YG feat. Syke 800, Duce, Marley Blu & Burnt Out",
+      "has_synced": true,
+      "path": "select/01_Good_Times_Interlude_(feat._Syke_800,_Duce,_Marley_Blu_&_Burnt_Out)_YG_feat._Syke_800,_Duce,_Marley_Blu_&_Burnt_Out.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Times Interlude (Feat. Syke 800, Duce, Marley Blu, Burnt Out)",
+      "artist": "YG",
+      "has_synced": true,
+      "path": "select/02_Good_Times_Interlude_(Feat._Syke_800,_Duce,_Marley_Blu,_Burnt_Out)_YG.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Call 1-800-fear",
+      "artist": "Lali Puna",
+      "has_synced": true,
+      "path": "select/03_Call_1-800-fear_Lali_Puna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1-800-KEKE",
+      "artist": "Keke Palmer",
+      "has_synced": true,
+      "path": "select/04_1-800-KEKE_Keke_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1-800-WORSHIP",
+      "artist": "Clarence Clarity",
+      "has_synced": true,
+      "path": "select/05_1-800-WORSHIP_Clarence_Clarity.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Hope My Life - 1-800 Mix",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/06_I_Hope_My_Life_-_1-800_Mix_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic feat. Alessia Cara & Khalid",
+      "has_synced": true,
+      "path": "select/07_1-800-273-8255_Logic_feat._Alessia_Cara_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic, Alessia Cara, Khalid",
+      "has_synced": true,
+      "path": "select/08_1-800-273-8255_Logic,_Alessia_Cara,_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Olde English 800",
+      "artist": "The Amity Affliction",
+      "has_synced": true,
+      "path": "select/09_Olde_English_800_The_Amity_Affliction.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/10_1-800-273-8255_Logic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1-800-273-8255 (ft. Alessia Cara & Khalid)",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/11_1-800-273-8255_(ft._Alessia_Cara_&_Khalid)_Logic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "800",
+      "artist": "Saliva",
+      "has_synced": true,
+      "path": "select/12_800_Saliva.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic featuring Alessia Cara & Khalid",
+      "has_synced": true,
+      "path": "select/13_1-800-273-8255_Logic_featuring_Alessia_Cara_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic ft. Alessia Cara & Khalid",
+      "has_synced": true,
+      "path": "select/14_1-800-273-8255_Logic_ft._Alessia_Cara_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "800 db cloud",
+      "artist": "100 gecs",
+      "has_synced": true,
+      "path": "select/15_800_db_cloud_100_gecs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1-800-273-8255 (feat. Alessia Cara & Khalid)",
+      "artist": "Logic",
+      "has_synced": true,
+      "path": "select/16_1-800-273-8255_(feat._Alessia_Cara_&_Khalid)_Logic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic feat. Alessia Cara & Khalid",
+      "has_synced": true,
+      "path": "select/17_1-800-273-8255_Logic_feat._Alessia_Cara_&_Khalid.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "1-800-273-8255",
+      "artist": "Logic\\Alessia Cara\\Khalid",
+      "has_synced": true,
+      "path": "select/18_1-800-273-8255_Logic_Alessia_Cara_Khalid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "800",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_800_Aimer.txt"
+    }
+  ]
+}
